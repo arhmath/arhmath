@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! I'm [Arham Athillah] 👋
 
-<!--
-**arhmath/arhmath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
+- Languages: 
+  - JavaScript
+  - Python
+  - Java
+- Tools:
+  - Git
+  - Docker
+  - VS Code
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
