@@ -1,12 +1,13 @@
 ## 🔧 Technologies & Tools
-- **Languages:**
-  - ![PHP](https://img.shields.io/badge/PHP-black?logo=php&logoColor=777BB4)
-  - ![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=3776AB)
-  - ![C++](https://img.shields.io/badge/C++-black?logo=cplusplus&logoColor=00599C)
-  
-- **Tools:**
-  - ![Instagram](https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=E1306C)
-  - ![Gmail](https://img.shields.io/badge/Gmail-black?logo=gmail&logoColor=EA4335)
+
+### Languages
+- ![PHP](https://img.shields.io/badge/PHP-black?logo=php&logoColor=777BB4) PHP
+- ![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=3776AB) Python
+- ![C++](https://img.shields.io/badge/C++-black?logo=cplusplus&logoColor=00599C) C++
+
+### Tools
+- ![Instagram](https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=E1306C) Instagram
+- ![Gmail](https://img.shields.io/badge/Gmail-black?logo=gmail&logoColor=EA4335) Gmail
 
 
 ## 📈 GitHub Stats
