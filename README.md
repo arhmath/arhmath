@@ -6,7 +6,7 @@ Kumpulan karya digital saya di bidang pengembangan perangkat lunak dan desain.
 
 Halo! Saya **Arham Athillah**, mahasiswa Teknik Informatika dari **UIN Sunan Kalijaga Yogyakarta**.
 
-Saya memiliki minat kuat dalam **Pemrograman** dan **Desain Grafis**, fokus pada **pembuatan Website** (baik *frontend* maupun *backend*) serta **desain visual** seperti Poster, Pamflet, dan *Banner*. Dengan **pengalaman lebih dari empat tahun**, saya berdedikasi menciptakan proyek digital yang fungsional, efisien, dan menarik secara visual.
+Saya memiliki minat kuat dalam **Pemrograman** dan **Desain Grafis**, fokus pada **pembuatan Website** (baik *frontend* maupun *backend*) serta **desain visual** seperti Poster, Pamflet, dan *Banner*. Dengan **pengalaman kurang lebih 2 tahun**, saya berdedikasi menciptakan proyek digital yang fungsional, efisien, dan menarik secara visual.
 
 Sebagai bagian dari UIN Sunan Kalijaga Yogyakarta, saya terus belajar untuk berinovasi.
 
@@ -26,14 +26,14 @@ Beberapa *tools* dan teknologi yang saya gunakan:
 
 **Pengembangan Web:** Python, JavaScript, HTML, CSS, ReactJS, , Tailwind CSS, Git, GitHub.
 
-**Desain & UI/UX:** Adobe Illustrator, Canva, Figma.
+**Desain & UI/UX:** Canva, Figma.
 
-**Lingkungan:** VS Code, VIM, Ubuntu Linux, PythonAnywhere, Pusher.
+**Lingkungan:** VS Code, VIM, Ubuntu Linux.
 
 ## 📧 Kontak
 
 * **Email:** [23106050008@student.uin-suka.ac.id](mailto:23106050008@student.uin-suka.ac.id)
-* **Instagram:** [arhmathllh]((mailto:https://www.instagram.com/arhmath_?igsh=YjBveXh2Y2hpMzdo))
+* **Instagram:** [arhmathllh]
 
 ---
 
