@@ -33,7 +33,7 @@ Beberapa *tools* dan teknologi yang saya gunakan:
 ## 📧 Kontak
 
 * **Email:** [23106050008@student.uin-suka.ac.id](mailto:23106050008@student.uin-suka.ac.id)
-* **Instagram:** [arhmathhllh]((https://www.instagram.com/arhmath_?igsh=YjBveXh2Y2hpMzdo))
+* **Instagram:** [arhmathllh]((mailto:https://www.instagram.com/arhmath_?igsh=YjBveXh2Y2hpMzdo))
 
 ---
 
