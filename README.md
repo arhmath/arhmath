@@ -1,4 +1,4 @@
-# 🌟 Portofolio Proyek Arham Athillah 🌟
+# 🌟 Portofolio 🌟
 
 Kumpulan karya digital saya di bidang pengembangan perangkat lunak dan desain.
 
