@@ -4,8 +4,6 @@ Halo! Saya **Arham Athillah**, mahasiswa Teknik Informatika dari **UIN Sunan Kal
 
 Saya memiliki minat kuat dalam **Pemrograman** dan **Desain Grafis**, fokus pada **pembuatan Website** (baik *frontend* maupun *backend*) serta **desain visual** seperti Poster, Pamflet, dan *Banner*. Dengan **pengalaman kurang lebih 2 tahun**, saya berdedikasi menciptakan proyek digital yang fungsional, efisien, dan menarik secara visual.
 
-Sebagai bagian dari UIN Sunan Kalijaga Yogyakarta, saya terus belajar untuk berinovasi.
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADEF&center=true&vCenter=true&width=700&lines=WELCOME+TO+MY+GITHUB+PROFILE!;INFORMATIC+ENGINEERING,+💻+;JIKA+ORANG+LAIN+BISA+KENAPA+KITA+TIDAK+BISA+🔥" alt="Typing Animation" />
 </p>
@@ -84,6 +82,12 @@ Berikut adalah beberapa proyek penting saya:
   </tr>
 </table>
 
+
+<p align="center">
+  <a href="https://github.com/zaaammmmm/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arhmath&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" alt="zaaammmmm's Activity Graph" />
+  </a>
+</p>
 ---
 
 **© 2025 Arham Athillah**
