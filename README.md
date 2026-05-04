@@ -17,7 +17,7 @@ Berikut adalah beberapa proyek penting saya:
 * **Teknologi:** Python, Django, PyQt/Tkinter (Desktop GUI), Pusher, Git.
 * **Status:** Dalam Pengembangan
 
-### 1. Smart Water Filter: Sistem IoT Mendeteksi Kualitas Air Menggunakan Sensor TDS Meter & Suhu
+### 2. Smart Water Filter: Sistem IoT Mendeteksi Kualitas Air Menggunakan Sensor TDS Meter & Suhu
 * **Deskripsi:** Sistem IoT yang menggunakan beberapa Sensor seperti TDS Meter, Suhu, Ultrasonik (HC-SR04) untuk mendeteksi kualitas air
 * **Teknologi:** Python, Github, Tkinter, Blynk.
 * **Status:** Dalam Pengembangan
